@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_pacotes" value="name:id;datatype:int,name:titulo;datatype:string,name:regiao;datatype:string,name:cidade_destino;datatype:string,name:resumo;datatype:string,name:valor_pacote;datatype:real,name:foto_destaque;datatype:string" />
+</info>

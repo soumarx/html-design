@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_editar" value="name:id;datatype:int,name:nome;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_RS_newsletter" value="name:id;datatype:int,name:nome;datatype:string,name:email;datatype:string" />
+</info>
